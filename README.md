@@ -26,7 +26,7 @@ Exploratory data analysis of the Global Superstore dataset (Kaggle): 51,290 orde
 Global Superstore dataset on Kaggle.
 
 ## How to run
-1. `pip install numpy pandas matplotlib jupyter`
+1. `!mamba install numpy pandas matplotlib jupyter`
 2. Put `Global_Superstore2.csv` in the same folder as the notebook
 3. Open the notebook with `jupyter notebook` and choose Kernel, then Restart and Run All
 
